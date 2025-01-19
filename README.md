@@ -140,4 +140,4 @@ Contributions, suggestions, and bug reports are welcome. Please fork the reposit
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details (if you choose to add one).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

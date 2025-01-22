@@ -1,5 +1,5 @@
 
-# SIC/XE Assembler
+# SIC/XE Assembly Assembler
 
 A simplified two-pass assembler for the SIC/XE architecture written in C. This project is structured for maintainability and extensibility, following best practices suitable for a senior software engineering approach. 
 
